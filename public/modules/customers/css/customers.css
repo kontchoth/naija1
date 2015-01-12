@@ -1,0 +1,23 @@
+.cust-profile {
+	font-size: 250px;
+}
+
+.checkbox-left {
+	width: 10%;
+	text-align: left;
+}
+
+
+.cust-list {
+	font-size: 150px;
+}
+
+
+.extra-space {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+input[type="radio"], input[type="checkbox"] {
+	margin: 0px 0 0 !important;
+}
