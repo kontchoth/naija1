@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc07d431-608a-44ab-8cee-ae6b8a8f8034" name="Default" comment="" />
+    <list default="true" id="cc07d431-608a-44ab-8cee-ae6b8a8f8034" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/env/production.js" afterPath="$PROJECT_DIR$/config/env/production.js" />
+    </list>
     <ignored path="naija.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="production.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="production.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/env/production.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
-              <caret line="3" column="127" selection-start-line="3" selection-start-column="127" selection-end-line="3" selection-end-column="127" />
+            <state vertical-scroll-proportion="0.05263158" vertical-offset="0" max-vertical-offset="1020">
+              <caret line="3" column="92" selection-start-line="3" selection-start-column="92" selection-end-line="3" selection-end-column="92" />
               <folding />
             </state>
           </provider>
@@ -94,10 +96,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="development.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="development.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/env/development.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.05263158" vertical-offset="0" max-vertical-offset="855">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
               <caret line="3" column="34" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="34" />
               <folding />
             </state>
@@ -122,8 +124,8 @@
         <option value="$PROJECT_DIR$/public/modules/customers/views/edit-customer.client.view.html" />
         <option value="$PROJECT_DIR$/config/env/all.js" />
         <option value="$PROJECT_DIR$/public/modules/customers/controllers/customers.client.controller.js" />
-        <option value="$PROJECT_DIR$/config/env/production.js" />
         <option value="$PROJECT_DIR$/config/env/development.js" />
+        <option value="$PROJECT_DIR$/config/env/production.js" />
       </list>
     </option>
   </component>
@@ -817,18 +819,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/env/production.js">
+    <entry file="file://$PROJECT_DIR$/config/env/development.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
-          <caret line="3" column="127" selection-start-line="3" selection-start-column="127" selection-end-line="3" selection-end-column="127" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/env/development.js">
+    <entry file="file://$PROJECT_DIR$/config/env/production.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05263158" vertical-offset="0" max-vertical-offset="855">
-          <caret line="3" column="34" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.05263158" vertical-offset="0" max-vertical-offset="1020">
+          <caret line="3" column="92" selection-start-line="3" selection-start-column="92" selection-end-line="3" selection-end-column="92" />
           <folding />
         </state>
       </provider>

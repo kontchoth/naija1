@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	db: process.env.MONGOHQ_URL || process.env.MONGOLAB_URI || 'mongodb://kontchoth:Marlene1>@ds031641.mongolab.com:31641/naija',
+	db: process.env.MONGOHQ_URL || process.env.MONGOLAB_URI || 'mongodb://kontchoth:Marlene1@ds031641.mongolab.com:31641/naija',
 	//db: process.env.MONGOHQ_URL || process.env.MONGOLAB_URI || 'mongodb://' + (process.env.DB_1_PORT_27017_TCP_ADDR || 'localhost') + '/naija',
 	assets: {
 		lib: {
